@@ -1,0 +1,8 @@
+{
+  "universal": {
+    "project": "keeplearning-seo",
+    "skipInstall": false,
+    "directory": ".",
+    "http": true
+  }
+}
